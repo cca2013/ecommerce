@@ -1,4 +1,4 @@
-const stripe = require('stripe')(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)
+const stripe = require('stripe')(<YOUR_STRIP_CLIENT_ID>)
 
 async function postCharge(req, res) {
   try {
