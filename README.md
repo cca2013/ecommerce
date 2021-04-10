@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React & Node Tutorial - Full ECommerce in 5 Hours [2020]
 
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
@@ -264,3 +265,6 @@ This section is about uploading images amazon aws s3 cloud server.
 
 In this tutorial, we have made an eCommerce website like Amazon. Feel free to change this project based on your needs and add it to your portfolio.
 Also, I will love to hear your comment about this React and Node tutorial. Please share your thoughts here.
+=======
+# ecommerce
+>>>>>>> bd0c747f37b25253a7d24879d5c912cfbcff4bb4
